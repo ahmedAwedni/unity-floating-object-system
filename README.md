@@ -48,7 +48,6 @@ A randomized phase offset is applied per instance to avoid identical synchronize
 ## 🚀 Possible Extensions
 
 - Animation curves instead of sine wave
-- Editor preview mode
 - Bobbing with easing
 - Pickup trigger integration
 - ScriptableObject presets
